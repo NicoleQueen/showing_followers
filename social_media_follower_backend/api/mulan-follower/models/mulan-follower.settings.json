@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mulan_followers",
+  "info": {
+    "name": "MulanFollower"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "users": {
+      "plugin": "users-permissions",
+      "collection": "user"
+    }
+  }
+}

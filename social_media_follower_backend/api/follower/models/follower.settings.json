@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "followers",
+  "info": {
+    "name": "follower",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "user_id": {
+      "type": "biginteger"
+    },
+    "users_permissions_users": {
+      "plugin": "users-permissions",
+      "collection": "user"
+    }
+  }
+}

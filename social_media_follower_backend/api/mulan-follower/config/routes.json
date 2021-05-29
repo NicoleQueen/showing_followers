@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/mulan-followers",
+      "handler": "mulan-follower.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/mulan-followers/count",
+      "handler": "mulan-follower.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/mulan-followers/:id",
+      "handler": "mulan-follower.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/mulan-followers",
+      "handler": "mulan-follower.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/mulan-followers/:id",
+      "handler": "mulan-follower.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/mulan-followers/:id",
+      "handler": "mulan-follower.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
