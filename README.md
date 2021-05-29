@@ -21,8 +21,8 @@
   <a href="https://nicelinks.site/post/5c16083e819ae45de1453caa">
     <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" alt="Prettier">
   </a>
-</div>
-
+</div>                                                                                                   
+                                                                                                    
 ## Installation
 
 <ol>
@@ -40,6 +40,10 @@ passward:Jiayou123456
 To access the server, at http://localhost:1337/followers;
                          http://localhost:1337/following
 
+## Requirement
+                                                                                                    
+Node Version >= 14.0 
+                       
 ## Features
 <ul>
   <li>Login && logout.</li>
