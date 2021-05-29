@@ -37,7 +37,7 @@ To manage the project go to the administration panel at http://localhost:1337/ad
 username:nicolepeng99@gmail.com
 passward:Jiayou123456
 
-To access the server, at http://localhost:1337/followers
+To access the server, at http://localhost:1337/followers;
                          http://localhost:1337/following
 
 ## Features
@@ -58,7 +58,7 @@ To access the server, at http://localhost:1337/followers
 
 ## Demo
 
-
+https://www.youtube.com/watch?v=FWxoPdcb48k
 
 
 ## Developer
