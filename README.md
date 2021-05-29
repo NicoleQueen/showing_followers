@@ -12,16 +12,7 @@
    </strong>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/node-%3E%3D%208.0.0-green.svg" alt="Node Version">
-  </a>
-  <a href="https://nicelinks.site/post/5c16083e819ae45de1453caa">
-    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" alt="Prettier">
-  </a>
-</div>                                                                                                   
+<br>                                                                                                 
                                                                                                     
 ## Installation
 
