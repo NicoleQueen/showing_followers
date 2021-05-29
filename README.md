@@ -42,7 +42,7 @@ To access the server, at http://localhost:1337/followers
 
 ## Features
 <ul>
-  <li>Login && lohout.</li>
+  <li>Login && logout.</li>
   <li>View user profile.</li>
   <li>Check followers && following && posts.</li>
 </ul>
